@@ -2,8 +2,11 @@ import sqlalchemy as sa
 from sqlalchemy.orm import sessionmaker
 from entities.Club import ClubEnt
 from entities.Professor import ProfessorEnt
+from sqlalchemy_utils import get_classname_from_table, get_key_type_pairs
+from rain_types import get_key_type_pairs
 import random
 import dsl
+from pprint import pprint
 
 
 class Database:
@@ -11,10 +14,23 @@ class Database:
         self.db_file = db_file
         self.entities = entities
         self.entity_names = { e.__tablename__: e for e in entities }
+        self.entity_types = { e.__tablename__: e.__name__ for e in entities }
+        print(self.entity_types)
         self.entity_search_cols = entity_search_cols
         self.engine = sa.create_engine(f"sqlite:///{db_file}", echo=echo)
         self.inspector = sa.inspect(self.engine)
         self.session = sessionmaker(bind=self.engine)()
+        self.type_map = self._create_type_mapping()
+        
+    def _create_type_mapping(self):
+        type_map = dict()
+        for ent in self.entities:
+            inspector = sa.inspect(ent)
+            table = inspector.tables[0]
+            type_map[get_classname_from_table(table)] = get_key_type_pairs(inspector)
+        
+        pprint(type_map)
+        return type_map
 
     def create_all(self):
         for entity in self.entities:
@@ -32,6 +48,10 @@ class Database:
             .filter(getattr(table, ent_col) == ent_val)
             .one_or_none()
         )
+    
+    def get_entity_default_search_col(self, ent, ent_val):
+        search_col = self.entity_search_cols.get(self.entity_names.get(ent))
+        return self.get_entity(ent, search_col, ent_val)
     
     def get_prop_from_entity(self, ent, ent_val, prop):
         search_col = self.entity_search_cols.get(self.entity_names.get(ent))
@@ -136,6 +156,8 @@ def main():
 
     # "What is the phone number of the advisor of Cal Poly Mycology club?"
     # "The phone number of the advisor of Cal Poly Mycology is [club.advisor.phone_number]"
+
+    print(hasattr(db.get_entity_default_search_col("club", "Cal Poly CSAI"), "_sa_instance_state"))
 
     print()
 

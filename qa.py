@@ -5,6 +5,7 @@ def parse_question_format(q):
     pattern = r'\{(.*?)\}'
     matches = re.finditer(pattern, q, re.MULTILINE | re.DOTALL)
     types = dict()
+    vcounts = dict()
 
     for m in matches:
         captured = m.group(1)
@@ -13,14 +14,22 @@ def parse_question_format(q):
             case [v, t]:
                 types[v] = [t, None]
             case [v]:
-                i = 0
-                while types.get(f"{v}{i}") is not None:
-                    i += 1
-                types[f"{v}{i}"] = [v, None]
+                count = vcounts.setdefault(v, 0)
+                match count:
+                    case 0:
+                        types[v] = [v, None]
+                    case 1:
+                        del types[v]
+                        types[f"{v}0"] = [v, None]
+                        types[f"{v}1"] = [v, None]
+                    case _:
+                        types[f"{v}{count}"] = [v, None]
+                
             case _:
                 raise ValueError()
-    
+
     return types
+
 
 def generate_answer_function(parser, lexer, qformat, aformat):
     _hints = parse_question_format(qformat)
