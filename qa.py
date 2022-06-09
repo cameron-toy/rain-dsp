@@ -1,6 +1,7 @@
 import re
 import copy
 
+
 def parse_question_format(q):
     pattern = r'\{(.*?)\}'
     matches = re.finditer(pattern, q, re.MULTILINE | re.DOTALL)
@@ -15,16 +16,8 @@ def parse_question_format(q):
                 types[v] = [t, None]
             case [v]:
                 count = vcounts.setdefault(v, 0)
-                match count:
-                    case 0:
-                        types[v] = [v, None]
-                    case 1:
-                        del types[v]
-                        types[f"{v}0"] = [v, None]
-                        types[f"{v}1"] = [v, None]
-                    case _:
-                        types[f"{v}{count}"] = [v, None]
-                
+                types[f"{v}{count}"] = [v, None]
+                vcounts[v] += 1
             case _:
                 raise ValueError()
 
@@ -33,13 +26,13 @@ def parse_question_format(q):
 
 def generate_answer_function(parser, lexer, qformat, aformat):
     _hints = parse_question_format(qformat)
-    tokens = lexer.tokenize(aformat)
     
     # for tok in tokens:
     #     print('type=%r, value=%r' % (tok.type, tok.value))
 
     def wrapped(**kwargs):
         hints = copy.deepcopy(_hints)
+        tokens = lexer.tokenize(aformat)
         for k, v in kwargs.items():
             hint = hints.get(k)
             if hint is not None:
@@ -47,3 +40,5 @@ def generate_answer_function(parser, lexer, qformat, aformat):
         return parser.parse_with_hints(tokens, hints)
     
     return wrapped
+
+

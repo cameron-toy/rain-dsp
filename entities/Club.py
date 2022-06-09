@@ -8,7 +8,4 @@ class ClubEnt(Base):
     id = Column(Integer, primary_key=True)
     name = Column(Text)
     advisor_alias = Column(Text, ForeignKey("professor.alias"))
-    advisor = relationship("ProfessorEnt", back_populates="advises")
-
-    #description = Column(Text)
-    #summary = Column(Text)
+    advisor = relationship("ProfessorEnt", back_populates="advises", foreign_keys=[advisor_alias])

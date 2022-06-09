@@ -1,27 +1,37 @@
+from html import entities
 import sqlalchemy as sa
 from sqlalchemy.orm import sessionmaker
 from entities.Club import ClubEnt
 from entities.Professor import ProfessorEnt
+from entities.Department import DepartmentEnt
+from entities.Course import CourseEnt
+from entities.Location import LocationEnt
+from entities.Section import SectionEnt
 from sqlalchemy_utils import get_classname_from_table, get_key_type_pairs
-from rain_types import get_key_type_pairs
+from typeclasses import get_key_type_pairs
 import random
-import dsl
+import csv
 from pprint import pprint
 
-
 class Database:
-    def __init__(self, db_file, entities=[], entity_search_cols={}, echo=False):
-        self.db_file = db_file
-        self.entities = entities
+    def __init__(self, database_url, entity_config, echo=False):
+        entities = entity_config.keys()
+        self.entity_config = entity_config
         self.entity_names = { e.__tablename__: e for e in entities }
         self.entity_types = { e.__tablename__: e.__name__ for e in entities }
-        print(self.entity_types)
-        self.entity_search_cols = entity_search_cols
-        self.engine = sa.create_engine(f"sqlite:///{db_file}", echo=echo)
+        self.engine = sa.create_engine(database_url, echo=echo)
         self.inspector = sa.inspect(self.engine)
         self.session = sessionmaker(bind=self.engine)()
         self.type_map = self._create_type_mapping()
         
+    @property
+    def entities(self):
+        return self.entity_config.keys()
+
+    @property
+    def entity_search_cols(self):
+        return {k: v.get("search_col") for k, v in self.entity_config.items()}
+
     def _create_type_mapping(self):
         type_map = dict()
         for ent in self.entities:
@@ -29,7 +39,6 @@ class Database:
             table = inspector.tables[0]
             type_map[get_classname_from_table(table)] = get_key_type_pairs(inspector)
         
-        pprint(type_map)
         return type_map
 
     def create_all(self):
@@ -63,15 +72,18 @@ class Database:
             ), prop)
     
 
+def check_for_ent(session, entType, column, value):
+    return (
+        session.query(entType)
+        .filter(getattr(entType, column) == value)
+        .one_or_none()
+    )
+
 def add_club(db, name, advisor=None, id=None):
     session = db.session
 
     # Get the club
-    club = (
-        session.query(ClubEnt)
-        .filter(ClubEnt.name == name)
-        .one_or_none()
-    )
+    club = check_for_ent(session, ClubEnt, "name", name)
 
     if club is not None:
         return club
@@ -86,6 +98,79 @@ def add_club(db, name, advisor=None, id=None):
     session.commit()
 
     return club
+
+
+def add_entity(db, props, entType, idProp, commit=False):
+    session = db.session
+    ent = check_for_ent(session, entType, idProp, props[idProp])
+    if ent is not None:
+        return ent
+
+    ent = entType(**props)
+    session.add(ent)
+    if commit:
+        session.commit()
+
+    return ent
+
+
+def add_row(db, info):
+    departmentProps = {
+        "name": info["DEPARTMENT"]
+    }
+    department = add_entity(db, departmentProps, DepartmentEnt, "name")
+
+    officeProps = {
+        "id": info["OFFICE"],
+        "room": info["OFFICE ROOM"],
+        "building": info["OFFICE BUILDING"],
+        "name": None
+    }
+    office = add_entity(db, officeProps, LocationEnt, "id")
+
+    professorProps = {
+        "alias": info["ALIAS"],
+        "first_name": info["FIRST NAME"],
+        "last_name": info["LAST NAME"],
+        "office": office,
+        "phone_number": info["PHONE"],
+        "title": info["TITLE"]
+    }
+    professor = add_entity(db, professorProps, ProfessorEnt, "alias")
+
+    if "COURSE" not in info:
+        return
+
+    roomProps = {
+        "id": info["LOCATION"],
+        "room": info["SECTION ROOM"],
+        "building": info["SECTION BUILDING"],
+        "name": None
+    }
+    room = add_entity(db, roomProps, LocationEnt, "id")
+
+    courseProps = {
+        "title": info["COURSE"],
+        "name": info["COURSE NAME"],
+        "type": info["TYPE"],
+        "department": department,
+        }
+    course = add_entity(db, courseProps, CourseEnt, "title")
+
+    title = f"{info['COURSE']}-{info['SECT']}"
+    sectionProps = {
+        "title": title, 
+        "start_time": info["START"],
+        "end_time": info["END"],
+        "days": info["DAYS"],
+        "course": course,
+        "location": room,
+        "instructor": professor
+    }
+
+    add_entity(db, sectionProps, SectionEnt, "title")
+
+    db.session.commit()
 
 
 def add_professor(db, alias, name, advises=None):
@@ -120,47 +205,31 @@ def add_professor(db, alias, name, advises=None):
     return prof
 
 
-def setup_db(db):
+def setup_db(db, inFile="data.csv"):
     db.create_all()
 
-    add_club(db, "Cal Poly CSAI")
-    add_club(db, "Cal Poly Computer Engineering Society")
-
-    add_professor(db, "sding01", "Shunping Ding", "Cal Poly Mycology Club")
-    add_professor(db, "husmith", "Hugh Smith")
-    add_professor(db, "srbeard", "Stephen Beard")
-    add_professor(db, "foaad", "Foaad Khosmood", "Cal Poly CSAI")
-
+    for row in csv.DictReader(open(inFile)):
+        add_row(db, row)
 
 
 def main():
     DB_FILE = "calpoly.db"
-    db = Database(DB_FILE, [ProfessorEnt, ClubEnt], {ProfessorEnt: "alias", ClubEnt: "name"})
+    db = Database(
+        f"sqlite:///{DB_FILE}",
+        {
+            ProfessorEnt: "alias",
+            ClubEnt: "name",
+            DepartmentEnt: "name",
+            LocationEnt: "id",
+            CourseEnt: "title",
+            SectionEnt: "title"
+
+        }
+    )
 
     setup_db(db)
     
-    print()
-
-    print(
-        f"Dr. Ding advises {[club.name for club in db.get_entity('professor', 'first_name', 'Shunping').advises][0]}"
-    )
-    print(
-        f"The advisor for Cal Poly CSAI is {db.get_entity('club', 'name', 'Cal Poly CSAI').advisor.name}"
-    )
-    print(
-        f"Dr. Khosmood's email is {db.get_prop_from_entity('professor', 'foaad', 'email')}"
-    )
-    print(
-        dsl.interp(db, "Dr. Khosmood's email is [professor.foaad.email]")   
-    )
-
-    # "What is the phone number of the advisor of Cal Poly Mycology club?"
-    # "The phone number of the advisor of Cal Poly Mycology is [club.advisor.phone_number]"
-
-    print(hasattr(db.get_entity_default_search_col("club", "Cal Poly CSAI"), "_sa_instance_state"))
-
-    print()
-
+    
 
 if __name__=="__main__":
     main()

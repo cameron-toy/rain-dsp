@@ -1,0 +1,1511 @@
+capstone senior seminar in liberal arts and engineering studies, LAES 462, course
+subtractive manufacturing processes for mechanical designs ii, IME 146, course
+introduction to mechanical engineering for transfer students, ME 263, course
+interdisciplinary entrepreneurial senior design project iii, ENGR 465, course
+electronics manufacturing and circuit analysis laboratory, EE 143, course
+introduction to mechanical engineering for transfers lab, ME 264, course
+probability and statistics for engineers and scientists, STAT 321, course
+research experience for regenerative medicine students, BIO 583, course
+medical device evaluation and the fda approval process, BMED 422, course
+introductory experiments in transportation engineering, CE 222, course
+digital electronics and integrated circuits laboratory, EE 347, course
+test design and analysis in manufacturing engineering, IME 327, course
+analog electronics and integrated circuits laboratory, EE 348, course
+fundamentals of transportation engineering laboratory, CE 322, course
+project-based object-oriented programming and design, CPE 203, course
+introduction to detailed design with solid modeling, ME 251, course
+cell transplantation and biotherapeutics laboratory, BMED 561, course
+biomedical signal transduction and data acquisition, BMED 505, course
+electromagnetic fields and transmission laboratory, EE 375, course
+introduction to composite materials manufacturing, ME 161, course
+computer design and assembly language programming, CPE 233, course
+biomedical engineering design ii: senior project, BMED 456, course
+introduction to privacy: policy and technology, CSC 325, course
+aerospace systems engineering and integration, AERO 220, course
+energy conversion electromagnetics laboratory, EE 295, course
+introduction to biomedical engineering design, BMED 212, course
+contemporary issues in biomedical engineering, BMED 450, course
+computer aided drafting in civil engineering, CE 113, course
+materials for electrochemical energy storage, MATE 456, course
+special problems for advanced undergraduates, ENGR 400, course
+special problems for advanced undergraduates, IME 400, course
+special problems for advanced undergraduates, BMED 400, course
+special problems for advanced undergraduates, MATE 400, course
+special problems for advanced undergraduates, AERO 400, course
+environmental engineering design competition, ENVE 407, course
+special problems for advanced undergraduates, ME 400, course
+construction management and project planning, CE 371, course
+construction management and project planning, CM 371, course
+advanced information systems for operations, IME 520, course
+digital electronics and integrated circuits, EE 307, course
+interdisciplinary senior design project iii, ENGR 461, course
+manufacturing processes: materials joining, IME 142, course
+fundamentals of transportation engineering, CE 321, course
+database management systems implementation, CSC 468, course
+introduction to mechanical engineering iii, ME 130, course
+spacecraft electrical and electric systems, AERO 446, course
+microelectronics and electronics packaging, IME 458, course
+microcontrollers and embedded applications, CPE 316, course
+analysis and design of shallow foundations, CE 481, course
+computing for interactive arts capstone ii, CSC 450, course
+manufacturing process and tool engineering, IME 450, course
+analog electronics and integrated circuits, EE 308, course
+introduction to hazardous waste management, ENVE 436, course
+advanced solar-photovoltaic systems design, EE 520, course
+individual software design and development, CSC 305, course
+measurement and engineering data analysis, ME 236, course
+modeling and simulation in transportation, CE 529, course
+computer hardware architecture and design, CPE 333, course
+advanced civil computer-aided site design, CE 413, course
+fundamentals of environmental engineering, ENVE 331, course
+manufacturing processes: material removal, IME 143, course
+introduction to building energy modeling, ME 455, course
+electric circuit analysis laboratory iii, EE 242, course
+cell transplantation and biotherapeutics, BMED 560, course
+spacecraft attitude dynamics and control, AERO 421, course
+introduction to design and manufacturing, IME 144, course
+practical computer security for everyone, CSC 320, course
+programming applications in engineering, CE 251, course
+electric circuit analysis laboratory ii, EE 241, course
+aerodynamic research and development ii, AERO 569, course
+biomedical engineering graduate seminar, BMED 563, course
+electromagnetic fields and transmission, EE 335, course
+financial decision making for engineers, IME 315, course
+production planning and control systems, IME 410, course
+neural systems simulation and modeling, BMED 555, course
+funding and managing startup companies, BUS 330, course
+supersonic and hypersonic aerodynamics, AERO 405, course
+materials selection for the life cycle, MATE 320, course
+supply chain and logistics management, IME 417, course
+introduction to communication systems, EE 314, course
+materials characterization techniques, MATE 401, course
+interactive entertainment engineering, CSC 378, course
+introduction to distributed computing, CSC 369, course
+water and wastewater treatment design, ENVE 438, course
+introduction to computer organization, CSC 225, course
+groundwater hydraulics and hydrology, CE 434, course
+introduction to enterprise analytics, IME 212, course
+advanced water resources engineering, CE 533, course
+engineering test design and analysis, IME 326, course
+senior project - software deployment, CSC 406, course
+civil engineering design competition, CE 403, course
+applications of enterprise analytics, IME 372, course
+introduction to software engineering, CSC 307, course
+introduction to value chain analysis, IME 460, course
+microcontroller-based systems design, EE 329, course
+programming for engineering students, CSC 231, course
+advanced topics in power electronics, EE 527, course
+classical control systems laboratory, EE 342, course
+advanced topics in automatic control, EE 514, course
+thesis project design laboratory ii, BMED 592, course
+special problems for undergraduates, CSC 200, course
+geotechnical earthquake engineering, CE 583, course
+special problems for undergraduates, CPE 400, course
+continuous-time signals and systems, EE 228, course
+decentralized wastewater management, ENVE 537, course
+introduction to railway engineering, CE 425, course
+project organization and management, IME 303, course
+refrigeration principles and design, ME 457, course
+implementation of operating systems, CSC 454, course
+special problems for undergraduates, AERO 200, course
+fundamentals of systems engineering, AERO 350, course
+aerospace systems senior laboratory, AERO 465, course
+geotechnical engineering laboratory, CE 382, course
+special problems for undergraduates, MATE 200, course
+trends and opportunities in hvac&r, ME 453, course
+manufacturing processes: net shape, IME 141, course
+design and analysis of algorithms, CSC 349, course
+environmental engineering research, ENVE 405, course
+current topics in computer science, CSC 570, course
+intelligent transportation systems, CE 423, course
+energy conversion electromagnetics, EE 255, course
+design for strength and stiffness, ME 328, course
+advanced geotechnical engineering, CE 581, course
+introduction to human spaceflight, AERO 455, course
+introduction to operating systems, CPE 453, course
+discrete time signals and systems, EE 328, course
+manufacturing systems integration, IME 342, course
+introduction to computer security, CPE 321, course
+data management and system design, IME 312, course
+principles of biomaterials design, BMED 420, course
+introduction to computer networks, CPE 464, course
+aerospace structural analysis ii, AERO 431, course
+regenerative medicine internship, BMED 593, course
+technological project management, IME 556, course
+automation of industrial systems, IME 416, course
+biomedical engineering transport, BMED 425, course
+electric and advanced propulsion, AERO 542, course
+computational materials analysis, MATE 403, course
+introduction to database systems, CSC 365, course
+cooperative education experience, ME 494, course
+solidification and densification, MATE 490, course
+engineering design communication, ME 228, course
+cooperative education experience, ME 493, course
+fundamentals of computer science, CPE 101, course
+process improvement fundamentals, IME 223, course
+research in computer science ii, CSC 597, course
+metallurgical materials systems, MATE 360, course
+industrial pollution prevention, ENVE 450, course
+analog filter design laboratory, EE 455, course
+basic electronics manufacturing, IME 156, course
+introduction to system dynamics, ME 322, course
+photonic engineering laboratory, EE 458, course
+materials engineering analysis, MATE 245, course
+nuclear power plant operations, ME 439, course
+aerospace engineering analysis, AERO 300, course
+signals and systems laboratory, EE 368, course
+research in computer science i, CSC 596, course
+computer-aided manufacturing i, IME 335, course
+facilities planning and design, IME 443, course
+hvac senior design project ii, ME 460, course
+electric circuit analysis iii, EE 212, course
+knowledge discovery from data, CSC 466, course
+materials and the environment, MATE 485, course
+selected advanced laboratory, IME 471, course
+biopotential instrumentation, BMED 445, course
+introduction to data science, DATA 301, course
+experimental stress analysis, AERO 433, course
+selected advanced laboratory, IME 571, course
+electric circuits laboratory, EE 251, course
+d computer graphics software, CPE 476, course
+geoenvironmental engineering, CE 587, course
+introduction to mechatronics, ME 305, course
+electric circuit analysis ii, EE 211, course
+selected advanced laboratory, ME 471, course
+electric circuit analysis i, EE 113, course
+civil engineering materials, CE 259, course
+water resources engineering, CE 336, course
+bioengineering fundamentals, BMED 213, course
+single track vehicle design, ME 441, course
+computational heat transfer, ME 554, course
+prestressed concrete design, CE 559, course
+janine gian christii darato, jdarato, professor
+bioengineering fundamentals, BRAE 213, course
+graduate project/internship, IME 596, course
+seismic analysis and design, CE 557, course
+bioinformatics capstone ii, DATA 442, course
+computational intelligence, EE 509, course
+reinforced concrete design, CE 355, course
+research senior project ii, CSC 498, course
+bioremediation engineering, ENVE 443, course
+mechanical control systems, ME 422, course
+engineering supervision ii, IME 442, course
+senior design project iii, IME 483, course
+research senior project i, CSC 497, course
+mechanical systems design, ME 329, course
+experimental aerodynamics, AERO 307, course
+comprehensive examination, CE 596, course
+classical control systems, EE 302, course
+computational linguistics, CSC 582, course
+mechanics of materials ii, CE 207, course
+senior design project iii, ME 430, course
+engineering supervision i, IME 441, course
+human factors engineering, IME 319, course
+air quality measurements, ENVE 426, course
+senior design project ii, IME 482, course
+selected advanced topics, IME 570, course
+mass transfer operations, ENVE 421, course
+mechanics of materials i, CE 204, course
+power systems laboratory, EE 444, course
+aerospace thermodynamics, AERO 299, course
+senior design project ii, ME 429, course
+selected advanced topics, CE 570, course
+geotechnical engineering, CE 381, course
+selected advanced topics, IME 470, course
+selected advanced topics, ME 470, course
+senior design project ii, CE 467, course
+structural steel design, CE 356, course
+software engineering ii, CSC 309, course
+design project (thesis), ME 599, course
+power system protection, EE 518, course
+design project (thesis), ENVE 599, course
+electric circuit theory, EE 201, course
+knowledge based systems, CSC 481, course
+transport phenomena iii, MATE 327, course
+finite element analysis, ME 504, course
+thesis (design project), AERO 599, course
+design project (thesis), EE 599, course
+javier gonzalez sanchez, jgonz503, professor
+theory of computation i, CSC 445, course
+senior design project i, ME 428, course
+design project (thesis), CE 599, course
+air quality engineering, ENVE 325, course
+design project (thesis), BMED 599, course
+finite element analysis, CE 504, course
+stavros diamantopoulos, sdiamant, professor
+mechanics of materials, CE 208, course
+danielle perez- madrid, dperezma, professor
+materials laboratory i, MATE 215, course
+construction surveying, CM 239, course
+additive manufacturing, IME 432, course
+operations research ii, IME 305, course
+electronics laboratory, EE 361, course
+structural engineering, CE 352, course
+software defined radio, EE 504, course
+materials engineering, MATE 210, course
+nicole johnson-glauch, njohns66, professor
+joseph callenes-sloan, jcallene, professor
+computer architecture, CPE 315, course
+operations research i, IME 301, course
+manufacturing systems, IME 580, course
+ergonomics laboratory, IME 429, course
+programming languages, CSC 430, course
+mohsen beyramali kivy, mbeyrama, professor
+intermediate dynamics, ME 326, course
+space environments ii, AERO 356, course
+spacecraft design iii, AERO 449, course
+thermal system design, ME 448, course
+engineering economics, IME 314, course
+mechanical vibrations, ME 318, course
+hydraulics laboratory, CE 337, course
+data science seminar, DATA 472, course
+alypios chatziioanou, achatzii, professor
+analog filter design, EE 425, course
+honors group seminar, HNRS 299, course
+meghan schuler-jones, mcschule, professor
+britta berg-johansen, bbergjoh, professor
+engineering dynamics, ME 212, course
+sustainable mobility, CE 527, course
+abdul-rahman mohamed, amoham04, professor
+ali dehghan banadaki, dehghanb, professor
+philosophy of design, ME 234, course
+photonic engineering, EE 418, course
+systems programming, CPE 357, course
+christopher pascual, cpascual, professor
+vineeth dharmapalan, vdharmap, professor
+reza pouraghabagher, rpouragh, professor
+xiao-hua (helen) yu, xhyu, professor
+sumona mukhopadhyay, mukhopad, professor
+urban water systems, CE 538, course
+discrete structures, CSC 248, course
+pattern recognition, EE 516, course
+christopher heylman, cheylman, professor
+hemanth porumamilla, hporumam, professor
+quality engineering, IME 430, course
+advanced vibrations, ME 517, course
+engineering statics, ME 211, course
+aircraft design iii, AERO 445, course
+eric espinoza-wade, erwade, professor
+farzam forouzandeh, fforouza, professor
+senior project iii, MATE 484, course
+general physics ia, PHYS 141, course
+jonathan hernandez, jhern271, professor
+stephanie hamilton, snhamilt, professor
+benjamin kenworthy, bkenwort, professor
+kristin villanueva, kkvillan, professor
+fluid mechanics ii, ME 347, course
+teaching computing, CSC 313, course
+moncerratt peralta, moperalt, professor
+hannah chookaszian, hchookas, professor
+maetja verbarendse, mverbare, professor
+eltahry elghandour, eelghand, professor
+christian eckhardt, eckhardt, professor
+leanne fiorentino, lfiorent, professor
+joydeep mukherjee, jmukherj, professor
+senior project ii, CSC 492, course
+nandeesh hiremath, nhiremat, professor
+kimberley mastako, kmastako, professor
+talisha mottinger, tmotting, professor
+kim shollenberger, kshollen, professor
+kimberly marsalek, kmarsale, professor
+drake abrahamsson, dabrah01, professor
+fluid mechanics i, ME 341, course
+energy conversion, ME 415, course
+dominic riccoboni, driccobo, professor
+mugizi rwebangira, mrwebang, professor
+senior project ii, CPE 462, course
+pedro zepeda beas, pzepeda, professor
+charlene birdsong, cbirdson, professor
+kurt katzenberger, kkatzenb, professor
+senior project ii, EE 462, course
+lizabeth thompson, lschleme, professor
+database modeling, design and implementation, CSC 366, course
+charlotte tallman, ctallman, professor
+thermodynamics ii, ME 303, course
+vladimir prodanov, vprodano, professor
+sales engineering, IME 401, course
+dennis derickson, ddericks, professor
+francesco de leo, fdeleo, professor
+jonathan ventura, jventu09, professor
+rebecca burnside, rlburnsi, professor
+colleen richards, cricha18, professor
+senior project i, CSC 491, course
+hasmik gharibyan, hghariby, professor
+brendan rhatigan, btrhatig, professor
+senior project i, CPE 461, course
+jennifer kandell, jskandel, professor
+individual study, MATE 500, course
+charles chadwell, chadwell, professor
+individual study, CE 500, course
+computer systems, CPE 521, course
+christopher lupo, clupo, professor
+christian fuller, cofuller, professor
+thermodynamics i, ME 302, course
+richard emberley, remberle, professor
+graduate seminar, EE 563, course
+michelle leclere, mleclere, professor
+lubomir stanchev, lstanche, professor
+special problems, CE 400, course
+jacques belanger, jjbelang, professor
+individual study, ENVE 500, course
+special problems, CE 200, course
+special problems, ENVE 400, course
+individual study, AERO 500, course
+individual study, BMED 500, course
+frank jumonville, fjumonvi, professor
+dehghan banadaki, dehghanb, professor
+network security, CPE 422, course
+andrew wandinger, awanding, professor
+wajira manamperi, wmanampe, professor
+behnam ghalamchi, bghalamc, professor
+kristen cardinal, kohallor, professor
+ashraf elbarbary, aelbarba, professor
+jhon bueno vesga, jbuenove, professor
+kirsten heerding, kheerdin, professor
+individual study, EE 500, course
+faysal kolkailah, fkolkail, professor
+individual study, IME 500, course
+senior project i, EE 461, course
+individual study, ME 500, course
+special problems, CSC 400, course
+zachary peterson, znjp, professor
+gonzalez sanchez, jgonz503, professor
+damian kachlakev, dkachlak, professor
+russell westphal, rvwestph, professor
+wayne pilkington, wpilking, professor
+dominick bologna, dbologna, professor
+wyatt banker-hix, wbankerh, professor
+deeksha prakash, drprakas, professor
+christine ghent, cghent, professor
+cassi goldsmith, cmgoldsm, professor
+christopher siu, cesiu, professor
+laurie hartwell, lthartwe, professor
+robert crockett, rcrocket, professor
+tessa gallagher, tggallag, professor
+fernando chavez, fchave04, professor
+stephanie allen, sallen, professor
+scott hazelwood, shazelwo, professor
+sussan einakian, seinakia, professor
+andrew danowitz, adanowit, professor
+ronald mullisen, rmullise, professor
+lynne slivovsky, lslivovs, professor
+william ahlgren, wahlgren, professor
+bradford applin, bapplin, professor
+karla carichner, kcarichn, professor
+grant gallagher, gpgallag, professor
+dianne deturris, ddeturri, professor
+sabrina jenkins, sjenki03, professor
+alessandro hill, ahill29, professor
+trevor cardinal, tcardina, professor
+patrick lemieux, plemieux, professor
+ashley leitzell, aleitzel, professor
+ayaan kazerouni, ayaank, professor
+data structures, CPE 202, course
+nicky rodriguez, nrodri31, professor
+david vanmuyden, dvanmuyd, professor
+matthew gunther, mjgunthe, professor
+zelie zshornack, zzshorna, professor
+samuel westrick, swestric, professor
+david morrisset, dmorriss, professor
+joseph pinheiro, jgpinhei, professor
+keaton frahmann, kfrahman, professor
+william saucier, wsaucier, professor
+system dynamics, ME 506, course
+wynette winkler, wwinkler, professor
+glen thorncroft, gthorncr, professor
+kira abercromby, kabercro, professor
+lorinda esparza, llesparz, professor
+kyle debernardi, kdeberna, professor
+amanda johnston, acjohnst, professor
+zachary richter, zrichter, professor
+maxime jeanneau, mjeannea, professor
+misgana muleta, mmuleta, professor
+gregory roldan, groldan, professor
+mohammad hasan, mhasan04, professor
+hailey earnest, hearnest, professor
+theresa migler, tmigler, professor
+pouraghabagher, rpouragh, professor
+trent peterson, tpeter11, professor
+daniel franchi, dfranchi, professor
+timothy kearns, tkearns, professor
+mohammad noori, mnoori, professor
+eileen rossman, erossman, professor
+tommy bordeaux, tbordeau, professor
+james locascio, jlocasci, professor
+salman wajahat, swajahat, professor
+amro el badawy, aelbadaw, professor
+peter schuster, pschuste, professor
+david mcdonald, dbmcdona, professor
+daniel waldorf, dwaldorf, professor
+steffen peuker, speuker, professor
+angello pinedo, agpinedo, professor
+david houghton, djhought, professor
+teresa medrano, tlmedran, professor
+john fabijanic, jfabijan, professor
+jessica hunter, jhunter, professor
+mason medizade, mmedizad, professor
+jessica ouyang, jouyang, professor
+beyramali kivy, mbeyrama, professor
+larry coolidge, lcoolidg, professor
+andrew yazhgur, ayazhgur, professor
+bruno da silva, bcdasilv, professor
+trian georgeou, tgeorgeo, professor
+michael mullen, mpmullen, professor
+callenes-sloan, jcallene, professor
+robert szlavik, rszlavik, professor
+matthew slymen, mslymen, professor
+natalia cieply, ncieply, professor
+melinda keller, mkeller, professor
+david marshall, ddmarsha, professor
+rodrigo canaan, rcanaan, professor
+dave parkinson, dsparkin, professor
+christina fong, cfong11, professor
+bj klingenberg, bklingen, professor
+tracy thatcher, tthatche, professor
+mamadou konate, mkonate, professor
+michael haungs, mhaungs, professor
+siddharth vyas, sivyas, professor
+trevor harding, tharding, professor
+thesis seminar, CSC 590, course
+trevor franchi, tfranchi, professor
+johnson-glauch, njohns66, professor
+rebekah oulton, roulton, professor
+charlie refvem, crefvem, professor
+nephi derbidge, nderbidg, professor
+miranda wyzlic, mwyzlic, professor
+christine haas, cehaas, professor
+meredith rubin, mgrubin, professor
+glenn petersen, gpeter07, professor
+tryg lundquist, tlundqui, professor
+kyle lukacovic, klukacov, professor
+puneet agarwal, pagarw05, professor
+bridget benson, bbenson, professor
+turbomachinery, ME 443, course
+stephen klisch, sklisch, professor
+vahid alizadeh, valizade, professor
+foaad khosmood, foaad, professor
+cheryl edgerly, cedgerly, professor
+justin slavick, jslavick, professor
+jeff zimmerman, jjzimmer, professor
+directed study, CSC 500, course
+diamantopoulos, sdiamant, professor
+linda vanasupa, lvanasup, professor
+kevin williams, kwilli02, professor
+jonny erickson, jmericks, professor
+michael whitt, mdwhitt, professor
+espinoza-wade, erwade, professor
+maria pantoja, mpanto01, professor
+jamey stamets, jlstamet, professor
+ilianna salas, isalas, professor
+william fuchs, wfuchs, professor
+bruce debruhl, bdebruhl, professor
+maria manzano, msmanzan, professor
+mayana gordon, mwgordon, professor
+preston jones, pljones, professor
+jack gallegos, jgalle05, professor
+ulf lindqvist, ulindqvi, professor
+david niebuhr, dniebuhr, professor
+paul hatalsky, phatalsk, professor
+pauline faure, pfaure, professor
+majid poshtan, mposhtan, professor
+stephen beard, srbeard, professor
+schuler-jones, mcschule, professor
+jesse maddren, jmaddren, professor
+heat transfer, ME 343, course
+alex dekhtyar, dekhtyar, professor
+glen matteson, gmatteso, professor
+daniel castro, ddcastro, professor
+john bellardo, bellardo, professor
+shikha rahman, rahman, professor
+yarrow nelson, ynelson, professor
+senior thesis, BMED 459, course
+thomas mackin, tmackin, professor
+cody thompson, cthomp11, professor
+lauren atwell, latwell, professor
+julie workman, jworkman, professor
+sarah harding, sthardin, professor
+james cullins, jcullins, professor
+kevin devaney, kdevaney, professor
+jonathan hood, jfhood, professor
+nianpin cheng, ncheng, professor
+perez- madrid, dperezma, professor
+shayla nikzad, shnikzad, professor
+daniel jansen, djansen, professor
+mohamed awwad, mawwad, professor
+touhid ahamed, toahamed, professor
+joseph sparks, jbsparks, professor
+darren kraker, dkraker, professor
+taufik taufik, taufik, professor
+tarra sanders, tdsander, professor
+ying leighton, yleighto, professor
+lauren becker, labecker, professor
+emily doughty, eadought, professor
+franz kurfess, fkurfess, professor
+rose mccarver, rmccarve, professor
+scott machado, sjmachad, professor
+lucas sharkey, ljsharke, professor
+lauren cooper, lcoope06, professor
+andrew migler, amigler, professor
+helene finger, hfinger, professor
+paul anderson, pander14, professor
+nadime younan, younan, professor
+thomas katona, tkatona, professor
+lanny griffin, lgriffin, professor
+andreas pyper, ppyper, professor
+marty kaliski, mkaliski, professor
+kalina kuneva, kkuneva, professor
+dongfeng fang, dofang, professor
+freyja turner, csturner, professor
+jennifer mott, jpeuker, professor
+berg-johansen, bbergjoh, professor
+kendra bubert, kbubert, professor
+muhammad khan, mkhan47, professor
+dennis steers, dsteers, professor
+nazeih botros, nbotros, professor
+nicole bartal, nbartal, professor
+art maccarley, amaccarl, professor
+shollenberger, kshollen, professor
+hani alzraiee, halzraie, professor
+james meagher, jmeagher, professor
+john clements, clements, professor
+brad williams, bwilli58, professor
+sara salehyar, salehyar, professor
+amy fleischer, afleisch, professor
+benjamin lutz, blutz, professor
+derek manheim, dmanheim, professor
+ahmad nafisi, anafisi, professor
+yvonne lynch, ylynch, professor
+david trevas, dtrevas, professor
+shams tanvir, stanvir, professor
+stefan talke, stalke, professor
+andrew ochoa, atochoa, professor
+blair london, blondon, professor
+katzenberger, kkatzenb, professor
+jack maughan, jmaughan, professor
+phillip nico, pnico, professor
+jane kennedy, jekenned, professor
+candy janiam, gjaniam, professor
+gregg fiegel, gfiegel, professor
+payam nayeri, pnayeri, professor
+kurt behpour, kbehpour, professor
+joey hammond, johammon, professor
+nick sweeney, nsweeney, professor
+chatziioanou, achatzii, professor
+ralph schell, rschell, professor
+amy sinclair, aesincla, professor
+andrew davol, adavol, professor
+patrick ward, paward, professor
+garrett hall, gjhall, professor
+fred depiero, fdepiero, professor
+kirsten mork, klmork, professor
+bret hartman, bahartma, professor
+bruce burton, baburton, professor
+david clague, dclague, professor
+david janzen, djanzen, professor
+lauren rueda, lrueda01, professor
+joseph mello, jdmello, professor
+kenneth dodd, kldodd, professor
+shanyue guan, sguan07, professor
+steve dunton, sdunton, professor
+alyse coonce, acoonce, professor
+mechatronics, ME 405, course
+pavin virdee, pvirdee, professor
+john ridgely, jridgely, professor
+ashraf rahim, arahim, professor
+paulo iscold, piscold, professor
+biomechanics, BMED 410, course
+ginni callow, vcallowa, professor
+arnold deffo, adeffo, professor
+mukhopadhyay, mukhopad, professor
+madison sams, mlsams, professor
+nathan rower, nrower, professor
+paul valadao, pvaladao, professor
+jim gerhardt, jgerhard, professor
+daniel walsh, dwalsh, professor
+charles weir, cweir, professor
+alex hibbert, ahibbert, professor
+nick mcguire, nlmcguir, professor
+isinsu toker, itoker, professor
+alex hoglund, ahoglund, professor
+dean arakaki, darakaki, professor
+kent roberts, krober22, professor
+karissa roof, kroof, professor
+anurag pande, apande, professor
+maria zavala, mdzavala, professor
+brenda flood, bflood, professor
+kurt voelker, kvoelker, professor
+kurt colvin, kcolvin, professor
+xiaomin jin, xjin, professor
+jasper kahn, jakahn, professor
+electronics, EE 321, course
+mario esola, mesola, professor
+steven waal, swaal, professor
+bueno vesga, jbuenove, professor
+john grimes, jgrime02, professor
+paul hummel, phummel, professor
+john larson, jlarso04, professor
+carlos soto, casoto, professor
+eric mehiel, emehiel, professor
+neil currie, ndcurrie, professor
+samuel agbo, sagbo, professor
+james eason, jceason, professor
+karen bangs, krbangs, professor
+mary cooper, macooper, professor
+jim widmann, jwidmann, professor
+ben hawkins, bghawkin, professor
+verbarendse, mverbare, professor
+izak walker, ijwalker, professor
+pam ridgely, pridgely, professor
+john oliver, jyoliver, professor
+david laiho, dlaiho, professor
+nirupam pal, npal, professor
+kelly kurtz, kbkurtz, professor
+aaron drake, agdrake, professor
+anthony gay, ajgay, professor
+tanya hauck, thauck, professor
+carl recine, crecine, professor
+jose macedo, jmacedo, professor
+clay mckell, kmckell, professor
+eric kasper, ekasper, professor
+alan g. faz, afazocho, professor
+ashlee burt, amburt, professor
+iris kohler, ikohler, professor
+ahmed farid, farid, professor
+porumamilla, hporumam, professor
+rich murray, rimurray, professor
+sara leader, sleader, professor
+dev sisodia, dsisodia, professor
+rakesh goel, rgoel, professor
+irene humer, ihumer, professor
+james mealy, bmealy, professor
+john planck, jplanck, professor
+donna aiken, daiken, professor
+kurt mammen, kmammen, professor
+klingenberg, bklingen, professor
+austin shin, amshin, professor
+reza eslami, moeslami, professor
+andrew kean, akean, professor
+john saghri, jsaghri, professor
+flight test, AERO 409, course
+dharmapalan, vdharmap, professor
+jill speece, jespeece, professor
+chuck bland, ccbland, professor
+eric beaton, erbeaton, professor
+vera flores, eflore05, professor
+chookaszian, hchookas, professor
+jaime carmo, jcarmo, professor
+martin koch, mkoch, professor
+sidney tran, stran60, professor
+siyuan xing, sixing, professor
+kris hamann, krhamann, professor
+bill murray, wrmurray, professor
+brian jones, btjones, professor
+abrahamsson, dabrah01, professor
+forouzandeh, fforouza, professor
+kevin gasik, kgasik, professor
+zepeda beas, pzepeda, professor
+dawn sirois, dsirois, professor
+jeremy sim, jesim, professor
+jason poon, jasonp, professor
+jim hanson, jahanson, professor
+pilkington, wpilking, professor
+rob carter, rvcarter, professor
+lily laiho, llaiho, professor
+debernardi, kdeberna, professor
+will newey, wnewey, professor
+dale dolan, dsdolan, professor
+hugh smith, husmith, professor
+abercromby, kabercro, professor
+jack kelly, jkelly25, professor
+jeff nadel, jnadel, professor
+kim baxter, kibaxter, professor
+mark hontz, mhontz, professor
+niko banks, nbanks, professor
+eric pulse, epulse, professor
+jumonville, fjumonvi, professor
+leo torres, ltorre36, professor
+joel galos, jgalos, professor
+joe grimes, jgrimes, professor
+frank owen, fowen, professor
+hans mayer, hmayer, professor
+fiorentino, lfiorent, professor
+ali shaban, ashaban, professor
+thorncroft, gthorncr, professor
+simulation, IME 420, course
+troy uysal, tuysal, professor
+sean gager, sgager, professor
+hector hsu, hhsu03, professor
+amir molan, amolan, professor
+bryan lutz, brlutz, professor
+sixin zhai, sizhai, professor
+alan zhang, azhang89, professor
+kai quizon, kquizon, professor
+april grow, amgrow, professor
+daniel see, dsee, professor
+lani woods, llwoods, professor
+amy spikes, spikes, professor
+eric paton, enpaton, professor
+villanueva, kkvillan, professor
+aaron keen, akeen, professor
+dan malone, djmalone, professor
+dan biezad, dbiezad, professor
+gary perks, gperks, professor
+jane zhang, jzhang, professor
+kathy chen, kcchen, professor
+rory lynch, rmlynch, professor
+tali freed, tfreed, professor
+saeed niku, sniku, professor
+dani lopez, dlopez84, professor
+david retz, dretz, professor
+banker-hix, wbankerh, professor
+brian self, bself, professor
+elghandour, eelghand, professor
+cindy most, cymost, professor
+rwebangira, mrwebang, professor
+dev11 e804, DEV11 E804, course
+lukacovic, klukacov, professor
+judd king, jking35, professor
+john chen, jchen24, professor
+riccoboni, driccobo, professor
+parkinson, dsparkin, professor
+rodriguez, nrodri31, professor
+mottinger, tmotting, professor
+slivovsky, lslivovs, professor
+wandinger, awanding, professor
+john seng, jseng, professor
+gallagher, gpgallag, professor
+hernandez, jhern271, professor
+sam vigil, svigil, professor
+long wang, lwang38, professor
+gallagher, tggallag, professor
+hazelwood, shazelwo, professor
+kazerouni, ayaank, professor
+manamperi, wmanampe, professor
+el badawy, aelbadaw, professor
+fleischer, afleisch, professor
+fabijanic, jfabijan, professor
+derickson, ddericks, professor
+kachlakev, dkachlak, professor
+carichner, kcarichn, professor
+maccarley, amaccarl, professor
+zshornack, zzshorna, professor
+xuan wang, xwang12, professor
+elbarbary, aelbarba, professor
+mukherjee, jmukherj, professor
+kolkailah, fkolkail, professor
+kay kibbe, kkibbe, professor
+goldsmith, cmgoldsm, professor
+robb moss, rmoss, professor
+gharibyan, hghariby, professor
+ghalamchi, bghalamc, professor
+zimmerman, jjzimmer, professor
+morrisset, dmorriss, professor
+kenworthy, bkenwort, professor
+lundquist, tlundqui, professor
+vanmuyden, dvanmuyd, professor
+lindqvist, ulindqvi, professor
+jake mann, jtmann, professor
+westphal, rvwestph, professor
+khosmood, foaad, professor
+bmed 445, BMED 445, course
+hnrs 299, HNRS 299, course
+frahmann, kfrahman, professor
+mate 485, MATE 485, course
+belanger, jjbelang, professor
+jean lee, jlee473, professor
+enve 407, ENVE 407, course
+mate 360, MATE 360, course
+vanasupa, lvanasup, professor
+mate 490, MATE 490, course
+enve 405, ENVE 405, course
+bmed 592, BMED 592, course
+aero 446, AERO 446, course
+hartwell, lthartwe, professor
+thatcher, tthatche, professor
+leighton, yleighto, professor
+aero 569, AERO 569, course
+bmed 456, BMED 456, course
+bmed 450, BMED 450, course
+phys 141, PHYS 141, course
+tao yang, tyang, professor
+fpe s503, FPE S503, course
+bmed 213, BMED 213, course
+burnside, rlburnsi, professor
+mccarver, rmccarve, professor
+aero 299, AERO 299, course
+enve 325, ENVE 325, course
+bmed 459, BMED 459, course
+bmed 563, BMED 563, course
+aero 300, AERO 300, course
+tim jain, tsjain, professor
+rhatigan, btrhatig, professor
+marsalek, kmarsale, professor
+bellardo, bellardo, professor
+mate 403, MATE 403, course
+stat 321, STAT 321, course
+johnston, acjohnst, professor
+locascio, jlocasci, professor
+aero 465, AERO 465, course
+stanchev, lstanche, professor
+heerding, kheerdin, professor
+mate 245, MATE 245, course
+hatalsky, phatalsk, professor
+williams, kwilli02, professor
+clements, clements, professor
+emberley, remberle, professor
+richards, cricha18, professor
+mate 500, MATE 500, course
+aero 445, AERO 445, course
+antennas, EE 533, course
+alzraiee, halzraie, professor
+mate 401, MATE 401, course
+mate 400, MATE 400, course
+bmed 422, BMED 422, course
+enve 426, ENVE 426, course
+crockett, rcrocket, professor
+tom mase, gmase, professor
+aero 307, AERO 307, course
+enve 331, ENVE 331, course
+thompson, cthomp11, professor
+engr 400, ENGR 400, course
+aero 409, AERO 409, course
+aero 500, AERO 500, course
+bmed 555, BMED 555, course
+westrick, swestric, professor
+mate 484, MATE 484, course
+aero 455, AERO 455, course
+einakian, seinakia, professor
+john pan, pan, professor
+cardinal, kohallor, professor
+enve 421, ENVE 421, course
+bmed 505, BMED 505, course
+houghton, djhought, professor
+aero 350, AERO 350, course
+aero 421, AERO 421, course
+laes 462, LAES 462, course
+mate 215, MATE 215, course
+mate 320, MATE 320, course
+marshall, ddmarsha, professor
+petersen, gpeter07, professor
+hiremath, nhiremat, professor
+aero 356, AERO 356, course
+fpe s599, FPE S599, course
+zoe wood, zwood, professor
+enve 537, ENVE 537, course
+data 301, DATA 301, course
+peterson, tpeter11, professor
+bordeaux, tbordeau, professor
+eckhardt, eckhardt, professor
+chadwell, chadwell, professor
+georgeou, tgeorgeo, professor
+prodanov, vprodano, professor
+enve 450, ENVE 450, course
+salehyar, salehyar, professor
+aero 431, AERO 431, course
+enve 599, ENVE 599, course
+ben carr, bwcarr, professor
+engr 465, ENGR 465, course
+sinclair, aesincla, professor
+aero 433, AERO 433, course
+jeanneau, mjeannea, professor
+matteson, gmatteso, professor
+aero 599, AERO 599, course
+mate 210, MATE 210, course
+bmed 599, BMED 599, course
+birdsong, cbirdson, professor
+williams, bwilli58, professor
+aero 220, AERO 220, course
+aero 200, AERO 200, course
+fpe s522, FPE S522, course
+bmed 420, BMED 420, course
+engr 461, ENGR 461, course
+leitzell, aleitzel, professor
+gallegos, jgalle05, professor
+bmed 500, BMED 500, course
+bmed 560, BMED 560, course
+gerhardt, jgerhard, professor
+medizade, mmedizad, professor
+enve 443, ENVE 443, course
+aero 400, AERO 400, course
+da silva, bcdasilv, professor
+data 442, DATA 442, course
+deturris, ddeturri, professor
+aaron li, ali45, professor
+bmed 212, BMED 212, course
+brae 213, BRAE 213, course
+mcdonald, dbmcdona, professor
+bmed 593, BMED 593, course
+cardinal, tcardina, professor
+danowitz, adanowit, professor
+enve 500, ENVE 500, course
+mate 327, MATE 327, course
+derbidge, nderbidg, professor
+aero 449, AERO 449, course
+dekhtyar, dekhtyar, professor
+erickson, jmericks, professor
+anderson, pander14, professor
+schuster, pschuste, professor
+mate 456, MATE 456, course
+data 472, DATA 472, course
+mullisen, rmullise, professor
+enve 436, ENVE 436, course
+aero 542, AERO 542, course
+bmed 410, BMED 410, course
+aero 405, AERO 405, course
+enve 400, ENVE 400, course
+alizadeh, valizade, professor
+enve 438, ENVE 438, course
+hamilton, snhamilt, professor
+coolidge, lcoolidg, professor
+bmed 425, BMED 425, course
+peterson, znjp, professor
+thompson, lschleme, professor
+pinheiro, jgpinhei, professor
+bmed 561, BMED 561, course
+mate 200, MATE 200, course
+bmed 400, BMED 400, course
+tim dinh, tjdinh, professor
+csc 225, CSC 225, course
+ime 400, IME 400, course
+ime 430, IME 430, course
+ime 417, IME 417, course
+maughan, jmaughan, professor
+csc 378, CSC 378, course
+csc 500, CSC 500, course
+ime 315, IME 315, course
+peralta, moperalt, professor
+agarwal, pagarw05, professor
+ime 301, IME 301, course
+csc 248, CSC 248, course
+leclere, mleclere, professor
+ime 443, IME 443, course
+valadao, pvaladao, professor
+cpe 202, CPE 202, course
+csc 466, CSC 466, course
+mohamed, amoham04, professor
+harding, sthardin, professor
+csc 309, CSC 309, course
+cullins, jcullins, professor
+ime 556, IME 556, course
+sweeney, nsweeney, professor
+cpe 521, CPE 521, course
+debruhl, bdebruhl, professor
+kurfess, fkurfess, professor
+pascual, cpascual, professor
+ime 580, IME 580, course
+ime 571, IME 571, course
+ime 144, IME 144, course
+slavick, jslavick, professor
+ime 314, IME 314, course
+franchi, tfranchi, professor
+prakash, drprakas, professor
+ime 372, IME 372, course
+ime 335, IME 335, course
+ime 305, IME 305, course
+mastako, kmastako, professor
+ime 223, IME 223, course
+sisodia, dsisodia, professor
+tallman, ctallman, professor
+griffin, lgriffin, professor
+kandell, jskandel, professor
+ime 142, IME 142, course
+ime 458, IME 458, course
+ventura, jventu09, professor
+cpe 315, CPE 315, course
+csc 445, CSC 445, course
+harding, tharding, professor
+ime 460, IME 460, course
+ridgely, jridgely, professor
+csc 497, CSC 497, course
+ime 471, IME 471, course
+roberts, krober22, professor
+csc 325, CSC 325, course
+cpe 203, CPE 203, course
+ime 327, IME 327, course
+workman, jworkman, professor
+ime 420, IME 420, course
+csc 200, CSC 200, course
+csc 320, CSC 320, course
+bing qu, bqu, professor
+csc 596, CSC 596, course
+csc 349, CSC 349, course
+csc 597, CSC 597, course
+winkler, wwinkler, professor
+ime 146, IME 146, course
+machado, sjmachad, professor
+hawkins, bghawkin, professor
+csc 570, CSC 570, course
+ime 312, IME 312, course
+ime 442, IME 442, course
+pantoja, mpanto01, professor
+sharkey, ljsharke, professor
+ime 143, IME 143, course
+csc 590, CSC 590, course
+xi shen, xshen, professor
+kennedy, jekenned, professor
+csc 366, CSC 366, course
+csc 454, CSC 454, course
+ime 520, IME 520, course
+cpe 461, CPE 461, course
+meagher, jmeagher, professor
+csc 406, CSC 406, course
+szlavik, rszlavik, professor
+bio 583, BIO 583, course
+poshtan, mposhtan, professor
+ime 326, IME 326, course
+bologna, dbologna, professor
+jenkins, sjenki03, professor
+ime 410, IME 410, course
+rossman, erossman, professor
+ime 342, IME 342, course
+ime 141, IME 141, course
+hoglund, ahoglund, professor
+ime 470, IME 470, course
+ime 432, IME 432, course
+csc 450, CSC 450, course
+mcguire, nlmcguir, professor
+cpe 453, CPE 453, course
+earnest, hearnest, professor
+ime 441, IME 441, course
+maddren, jmaddren, professor
+waldorf, dwaldorf, professor
+csc 468, CSC 468, course
+csc 599, CSC 599, course
+cpe 101, CPE 101, course
+csc 498, CSC 498, course
+cpe 357, CPE 357, course
+arakaki, darakaki, professor
+manzano, msmanzan, professor
+ime 303, IME 303, course
+ime 482, IME 482, course
+doughty, eadought, professor
+hammond, johammon, professor
+esparza, llesparz, professor
+cpe 316, CPE 316, course
+csc 307, CSC 307, course
+csc 492, CSC 492, course
+csc 231, CSC 231, course
+ime 500, IME 500, course
+kaliski, mkaliski, professor
+ime 401, IME 401, course
+ime 429, IME 429, course
+behpour, kbehpour, professor
+ime 416, IME 416, course
+csc 305, CSC 305, course
+edgerly, cedgerly, professor
+csc 582, CSC 582, course
+niebuhr, dniebuhr, professor
+ime 319, IME 319, course
+ime 596, IME 596, course
+csc 369, CSC 369, course
+ime 599, IME 599, course
+csc 400, CSC 400, course
+ime 483, IME 483, course
+gunther, mjgunthe, professor
+manheim, dmanheim, professor
+stamets, jlstamet, professor
+csc 491, CSC 491, course
+sanders, tdsander, professor
+heylman, cheylman, professor
+csc 313, CSC 313, course
+ridgely, pridgely, professor
+yazhgur, ayazhgur, professor
+voelker, kvoelker, professor
+cpe 464, CPE 464, course
+ime 450, IME 450, course
+cpe 422, CPE 422, course
+ime 570, IME 570, course
+cpe 462, CPE 462, course
+ime 156, IME 156, course
+hibbert, ahibbert, professor
+csc 481, CSC 481, course
+widmann, jwidmann, professor
+wajahat, swajahat, professor
+ime 212, IME 212, course
+depiero, fdepiero, professor
+cpe 476, CPE 476, course
+cpe 333, CPE 333, course
+cpe 233, CPE 233, course
+medrano, tlmedran, professor
+cpe 400, CPE 400, course
+hartman, bahartma, professor
+lemieux, plemieux, professor
+devaney, kdevaney, professor
+bus 330, BUS 330, course
+csc 365, CSC 365, course
+csc 430, CSC 430, course
+saucier, wsaucier, professor
+richter, zrichter, professor
+cpe 321, CPE 321, course
+ahlgren, wahlgren, professor
+franchi, dfranchi, professor
+slymen, mslymen, professor
+me 161, ME 161, course
+me 457, ME 457, course
+recine, crecine, professor
+baxter, kibaxter, professor
+ee 461, EE 461, course
+ce 381, CE 381, course
+me 228, ME 228, course
+me 517, ME 517, course
+ce 113, CE 113, course
+ee 516, EE 516, course
+thesis, CSC 599, course
+ee 509, EE 509, course
+mammen, kmammen, professor
+ce 557, CE 557, course
+bubert, kbubert, professor
+benson, bbenson, professor
+ee 462, EE 462, course
+hummel, phummel, professor
+me 236, ME 236, course
+currie, ndcurrie, professor
+castro, ddcastro, professor
+ce 382, CE 382, course
+ee 329, EE 329, course
+oliver, jyoliver, professor
+tanvir, stanvir, professor
+me 211, ME 211, course
+me 470, ME 470, course
+leader, sleader, professor
+ee 302, EE 302, course
+me 493, ME 493, course
+ce 529, CE 529, course
+ee 241, EE 241, course
+becker, labecker, professor
+ee 342, EE 342, course
+konate, mkonate, professor
+virdee, pvirdee, professor
+me 506, ME 506, course
+ee 518, EE 518, course
+spikes, spikes, professor
+wyzlic, mwyzlic, professor
+bartal, nbartal, professor
+me 130, ME 130, course
+me 494, ME 494, course
+peuker, speuker, professor
+nayeri, pnayeri, professor
+ee 335, EE 335, course
+ce 207, CE 207, course
+canaan, rcanaan, professor
+ee 599, EE 599, course
+kohler, ikohler, professor
+me 441, ME 441, course
+ee 242, EE 242, course
+ee 458, EE 458, course
+ee 295, EE 295, course
+ce 251, CE 251, course
+me 264, ME 264, course
+ce 200, CE 200, course
+ee 348, EE 348, course
+kraker, dkraker, professor
+taufik, taufik, professor
+me 400, ME 400, course
+ce 500, CE 500, course
+me 422, ME 422, course
+trevas, dtrevas, professor
+me 329, ME 329, course
+ee 527, EE 527, course
+ce 400, CE 400, course
+me 343, ME 343, course
+ce 352, CE 352, course
+schell, rschell, professor
+nafisi, anafisi, professor
+me 305, ME 305, course
+hamann, krhamann, professor
+gordon, mwgordon, professor
+shaban, ashaban, professor
+me 212, ME 212, course
+me 318, ME 318, course
+saghri, jsaghri, professor
+colvin, kcolvin, professor
+mehiel, emehiel, professor
+larson, jlarso04, professor
+ce 504, CE 504, course
+ee 563, EE 563, course
+zavala, mdzavala, professor
+me 326, ME 326, course
+me 322, ME 322, course
+me 302, ME 302, course
+fuller, cofuller, professor
+quizon, kquizon, professor
+klisch, sklisch, professor
+ce 371, CE 371, course
+murray, rimurray, professor
+ee 368, EE 368, course
+ce 259, CE 259, course
+ee 201, EE 201, course
+planck, jplanck, professor
+ee 514, EE 514, course
+ee 143, EE 143, course
+eslami, moeslami, professor
+ce 587, CE 587, course
+ce 533, CE 533, course
+me 443, ME 443, course
+ee 251, EE 251, course
+ee 307, EE 307, course
+ee 328, EE 328, course
+haungs, mhaungs, professor
+carter, rvcarter, professor
+ee 314, EE 314, course
+darato, jdarato, professor
+ce 321, CE 321, course
+ee 444, EE 444, course
+cooper, macooper, professor
+me 263, ME 263, course
+nikzad, shnikzad, professor
+ee 211, EE 211, course
+ee 361, EE 361, course
+ee 504, EE 504, course
+walker, ijwalker, professor
+oulton, roulton, professor
+ee 321, EE 321, course
+jansen, djansen, professor
+coonce, acoonce, professor
+me 455, ME 455, course
+nelson, ynelson, professor
+me 415, ME 415, course
+torres, ltorre36, professor
+muleta, mmuleta, professor
+ee 455, EE 455, course
+ce 336, CE 336, course
+ce 403, CE 403, course
+ee 212, EE 212, course
+hunter, jhunter, professor
+ce 425, CE 425, course
+speece, jespeece, professor
+ce 434, CE 434, course
+burton, baburton, professor
+flores, eflore05, professor
+katona, tkatona, professor
+me 347, ME 347, course
+me 430, ME 430, course
+kasper, ekasper, professor
+ce 356, CE 356, course
+ee 113, EE 113, course
+beaton, erbeaton, professor
+me 471, ME 471, course
+rahman, rahman, professor
+ahamed, toahamed, professor
+ee 347, EE 347, course
+me 500, ME 500, course
+janzen, djanzen, professor
+mullen, mpmullen, professor
+cm 371, CM 371, course
+de leo, fdeleo, professor
+ee 228, EE 228, course
+ce 208, CE 208, course
+ce 583, CE 583, course
+ce 322, CE 322, course
+kuneva, kkuneva, professor
+me 599, ME 599, course
+ouyang, jouyang, professor
+ce 481, CE 481, course
+callow, vcallowa, professor
+sparks, jbsparks, professor
+cieply, ncieply, professor
+ce 527, CE 527, course
+ce 222, CE 222, course
+ee 308, EE 308, course
+thesis, IME 599, course
+clague, dclague, professor
+me 405, ME 405, course
+mackin, tmackin, professor
+refvem, crefvem, professor
+ce 355, CE 355, course
+me 341, ME 341, course
+finger, hfinger, professor
+ce 596, CE 596, course
+pinedo, agpinedo, professor
+ce 423, CE 423, course
+me 429, ME 429, course
+me 448, ME 448, course
+ee 255, EE 255, course
+ce 467, CE 467, course
+sirois, dsirois, professor
+botros, nbotros, professor
+me 234, ME 234, course
+ee 425, EE 425, course
+me 328, ME 328, course
+grimes, jgrime02, professor
+macedo, jmacedo, professor
+ce 581, CE 581, course
+ee 375, EE 375, course
+me 554, ME 554, course
+ce 570, CE 570, course
+ce 538, CE 538, course
+janiam, gjaniam, professor
+me 504, ME 504, course
+keller, mkeller, professor
+migler, tmigler, professor
+ce 413, CE 413, course
+cooper, lcoope06, professor
+younan, younan, professor
+atwell, latwell, professor
+mckell, kmckell, professor
+me 303, ME 303, course
+fiegel, gfiegel, professor
+ee 418, EE 418, course
+me 460, ME 460, course
+ee 520, EE 520, course
+grimes, jgrimes, professor
+applin, bapplin, professor
+iscold, piscold, professor
+hanson, jahanson, professor
+me 439, ME 439, course
+cm 239, CM 239, course
+turner, csturner, professor
+kearns, tkearns, professor
+ce 599, CE 599, course
+ce 337, CE 337, course
+london, blondon, professor
+chavez, fchave04, professor
+biezad, dbiezad, professor
+steers, dsteers, professor
+me 428, ME 428, course
+me 453, ME 453, course
+me 251, ME 251, course
+roldan, groldan, professor
+dunton, sdunton, professor
+malone, djmalone, professor
+ce 559, CE 559, course
+murray, wrmurray, professor
+ee 533, EE 533, course
+migler, amigler, professor
+ce 204, CE 204, course
+ee 500, EE 500, course
+toker, itoker, professor
+laiho, llaiho, professor
+zhang, jzhang, professor
+laiho, dlaiho, professor
+faure, pfaure, professor
+vigil, svigil, professor
+davol, adavol, professor
+noori, mnoori, professor
+zhang, azhang89, professor
+newey, wnewey, professor
+drake, agdrake, professor
+woods, llwoods, professor
+gasik, kgasik, professor
+lynch, rmlynch, professor
+awwad, mawwad, professor
+salas, isalas, professor
+pyper, ppyper, professor
+kurtz, kbkurtz, professor
+kelly, jkelly25, professor
+perks, gperks, professor
+pulse, epulse, professor
+lopez, dlopez84, professor
+talke, stalke, professor
+mello, jdmello, professor
+paton, enpaton, professor
+whitt, mdwhitt, professor
+rower, nrower, professor
+gager, sgager, professor
+rueda, lrueda01, professor
+ghent, cghent, professor
+pande, apande, professor
+hauck, thauck, professor
+mayer, hmayer, professor
+rahim, arahim, professor
+smith, husmith, professor
+beard, srbeard, professor
+cheng, ncheng, professor
+allen, sallen, professor
+xi wu, xwu, professor
+farid, farid, professor
+ochoa, atochoa, professor
+rubin, mgrubin, professor
+fuchs, wfuchs, professor
+dolan, dsdolan, professor
+jones, btjones, professor
+jones, pljones, professor
+bangs, krbangs, professor
+banks, nbanks, professor
+kibbe, kkibbe, professor
+deffo, adeffo, professor
+carmo, jcarmo, professor
+nadel, jnadel, professor
+esola, mesola, professor
+eason, jceason, professor
+molan, amolan, professor
+flood, bflood, professor
+hontz, mhontz, professor
+lynch, ylynch, professor
+freed, tfreed, professor
+aiken, daiken, professor
+galos, jgalos, professor
+humer, ihumer, professor
+bland, ccbland, professor
+walsh, dwalsh, professor
+uysal, tuysal, professor
+hasan, mhasan04, professor
+mealy, bmealy, professor
+haas, cehaas, professor
+shen, xshen, professor
+keen, akeen, professor
+zhai, sizhai, professor
+vyas, sivyas, professor
+ward, paward, professor
+khan, mkhan47, professor
+koch, mkoch, professor
+xing, sixing, professor
+wang, xwang12, professor
+mann, jtmann, professor
+agbo, sagbo, professor
+dodd, kldodd, professor
+fong, cfong11, professor
+lutz, brlutz, professor
+nico, pnico, professor
+goel, rgoel, professor
+dinh, tjdinh, professor
+wood, zwood, professor
+kahn, jakahn, professor
+seng, jseng, professor
+guan, sguan07, professor
+moss, rmoss, professor
+wang, lwang38, professor
+mase, gmase, professor
+kean, akean, professor
+weir, cweir, professor
+shin, amshin, professor
+burt, amburt, professor
+hall, gjhall, professor
+fang, dofang, professor
+waal, swaal, professor
+roof, kroof, professor
+hill, ahill29, professor
+lutz, blutz, professor
+tran, stran60, professor
+soto, casoto, professor
+owen, fowen, professor
+chen, jchen24, professor
+mott, jpeuker, professor
+yang, tyang, professor
+lupo, clupo, professor
+chen, kcchen, professor
+carr, bwcarr, professor
+king, jking35, professor
+sams, mlsams, professor
+self, bself, professor
+poon, jasonp, professor
+mork, klmork, professor
+hood, jfhood, professor
+jain, tsjain, professor
+niku, sniku, professor
+grow, amgrow, professor
+retz, dretz, professor
+hsu, hhsu03, professor
+siu, cesiu, professor
+pan, pan, professor
+faz, afazocho, professor
+sim, jesim, professor
+gay, ajgay, professor
+lee, jlee473, professor
+jin, xjin, professor
+see, dsee, professor
+pal, npal, professor
+wu, xwu, professor
+qu, bqu, professor
+li, ali45, professor
+yu, xhyu, professor

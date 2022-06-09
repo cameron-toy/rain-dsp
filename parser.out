@@ -1,219 +1,76 @@
 Grammar:
 
-Rule 0     S' -> expr
-Rule 1     expr -> PUNCT
-Rule 2     expr -> expr PUNCT
-Rule 3     expr -> expr expr
-Rule 4     expr -> NUM
-Rule 5     expr -> LVALUE
-Rule 6     expr -> ID
-Rule 7     expr -> { expr }
+Rule 0     S' -> text
+Rule 1     text -> VALUE
+Rule 2     text -> text text
+Rule 3     text -> TEXT
 
 Terminals, with rules where they appear:
 
-ID                   : 6
-LVALUE               : 5
-NUM                  : 4
-PUNCT                : 1 2
+TEXT                 : 3
+VALUE                : 1
 error                : 
-{                    : 7
-}                    : 7
 
 Nonterminals, with rules where they appear:
 
-expr                 : 2 3 3 7 0
+text                 : 2 2 0
 
 
 state 0
 
-    (0) S' -> . expr
-    (1) expr -> . PUNCT
-    (2) expr -> . expr PUNCT
-    (3) expr -> . expr expr
-    (4) expr -> . NUM
-    (5) expr -> . LVALUE
-    (6) expr -> . ID
-    (7) expr -> . { expr }
-    PUNCT           shift and go to state 2
-    NUM             shift and go to state 3
-    LVALUE          shift and go to state 4
-    ID              shift and go to state 5
-    {               shift and go to state 6
+    (0) S' -> . text
+    (1) text -> . VALUE
+    (2) text -> . text text
+    (3) text -> . TEXT
+    VALUE           shift and go to state 2
+    TEXT            shift and go to state 3
 
-    expr                           shift and go to state 1
+    text                           shift and go to state 1
 
 state 1
 
-    (0) S' -> expr .
-    (2) expr -> expr . PUNCT
-    (3) expr -> expr . expr
-    (1) expr -> . PUNCT
-    (2) expr -> . expr PUNCT
-    (3) expr -> . expr expr
-    (4) expr -> . NUM
-    (5) expr -> . LVALUE
-    (6) expr -> . ID
-    (7) expr -> . { expr }
-    PUNCT           shift and go to state 8
-    NUM             shift and go to state 3
-    LVALUE          shift and go to state 4
-    ID              shift and go to state 5
-    {               shift and go to state 6
+    (0) S' -> text .
+    (2) text -> text . text
+    (1) text -> . VALUE
+    (2) text -> . text text
+    (3) text -> . TEXT
+    VALUE           shift and go to state 2
+    TEXT            shift and go to state 3
 
-    expr                           shift and go to state 7
+    text                           shift and go to state 4
 
 state 2
 
-    (1) expr -> PUNCT .
-    PUNCT           reduce using rule 1 (expr -> PUNCT .)
-    NUM             reduce using rule 1 (expr -> PUNCT .)
-    LVALUE          reduce using rule 1 (expr -> PUNCT .)
-    ID              reduce using rule 1 (expr -> PUNCT .)
-    {               reduce using rule 1 (expr -> PUNCT .)
-    $end            reduce using rule 1 (expr -> PUNCT .)
-    }               reduce using rule 1 (expr -> PUNCT .)
+    (1) text -> VALUE .
+    VALUE           reduce using rule 1 (text -> VALUE .)
+    TEXT            reduce using rule 1 (text -> VALUE .)
+    $end            reduce using rule 1 (text -> VALUE .)
 
 
 state 3
 
-    (4) expr -> NUM .
-    PUNCT           reduce using rule 4 (expr -> NUM .)
-    NUM             reduce using rule 4 (expr -> NUM .)
-    LVALUE          reduce using rule 4 (expr -> NUM .)
-    ID              reduce using rule 4 (expr -> NUM .)
-    {               reduce using rule 4 (expr -> NUM .)
-    $end            reduce using rule 4 (expr -> NUM .)
-    }               reduce using rule 4 (expr -> NUM .)
+    (3) text -> TEXT .
+    VALUE           reduce using rule 3 (text -> TEXT .)
+    TEXT            reduce using rule 3 (text -> TEXT .)
+    $end            reduce using rule 3 (text -> TEXT .)
 
 
 state 4
 
-    (5) expr -> LVALUE .
-    PUNCT           reduce using rule 5 (expr -> LVALUE .)
-    NUM             reduce using rule 5 (expr -> LVALUE .)
-    LVALUE          reduce using rule 5 (expr -> LVALUE .)
-    ID              reduce using rule 5 (expr -> LVALUE .)
-    {               reduce using rule 5 (expr -> LVALUE .)
-    $end            reduce using rule 5 (expr -> LVALUE .)
-    }               reduce using rule 5 (expr -> LVALUE .)
+    (2) text -> text text .
+    (2) text -> text . text
+    (1) text -> . VALUE
+    (2) text -> . text text
+    (3) text -> . TEXT
+  ! shift/reduce conflict for VALUE resolved as shift
+  ! shift/reduce conflict for TEXT resolved as shift
+    $end            reduce using rule 2 (text -> text text .)
+    VALUE           shift and go to state 2
+    TEXT            shift and go to state 3
 
-
-state 5
-
-    (6) expr -> ID .
-    PUNCT           reduce using rule 6 (expr -> ID .)
-    NUM             reduce using rule 6 (expr -> ID .)
-    LVALUE          reduce using rule 6 (expr -> ID .)
-    ID              reduce using rule 6 (expr -> ID .)
-    {               reduce using rule 6 (expr -> ID .)
-    $end            reduce using rule 6 (expr -> ID .)
-    }               reduce using rule 6 (expr -> ID .)
-
-
-state 6
-
-    (7) expr -> { . expr }
-    (1) expr -> . PUNCT
-    (2) expr -> . expr PUNCT
-    (3) expr -> . expr expr
-    (4) expr -> . NUM
-    (5) expr -> . LVALUE
-    (6) expr -> . ID
-    (7) expr -> . { expr }
-    PUNCT           shift and go to state 2
-    NUM             shift and go to state 3
-    LVALUE          shift and go to state 4
-    ID              shift and go to state 5
-    {               shift and go to state 6
-
-    expr                           shift and go to state 9
-
-state 7
-
-    (3) expr -> expr expr .
-    (2) expr -> expr . PUNCT
-    (3) expr -> expr . expr
-    (1) expr -> . PUNCT
-    (2) expr -> . expr PUNCT
-    (3) expr -> . expr expr
-    (4) expr -> . NUM
-    (5) expr -> . LVALUE
-    (6) expr -> . ID
-    (7) expr -> . { expr }
-  ! shift/reduce conflict for PUNCT resolved as shift
-  ! shift/reduce conflict for NUM resolved as shift
-  ! shift/reduce conflict for LVALUE resolved as shift
-  ! shift/reduce conflict for ID resolved as shift
-  ! shift/reduce conflict for { resolved as shift
-    $end            reduce using rule 3 (expr -> expr expr .)
-    }               reduce using rule 3 (expr -> expr expr .)
-    PUNCT           shift and go to state 8
-    NUM             shift and go to state 3
-    LVALUE          shift and go to state 4
-    ID              shift and go to state 5
-    {               shift and go to state 6
-
-    expr                           shift and go to state 7
-
-state 8
-
-    (2) expr -> expr PUNCT .
-    (1) expr -> PUNCT .
-  ! reduce/reduce conflict for PUNCT resolved using rule 2 (expr -> expr PUNCT .)
-  ! reduce/reduce conflict for NUM resolved using rule 2 (expr -> expr PUNCT .)
-  ! reduce/reduce conflict for LVALUE resolved using rule 2 (expr -> expr PUNCT .)
-  ! reduce/reduce conflict for ID resolved using rule 2 (expr -> expr PUNCT .)
-  ! reduce/reduce conflict for { resolved using rule 2 (expr -> expr PUNCT .)
-  ! reduce/reduce conflict for $end resolved using rule 2 (expr -> expr PUNCT .)
-  ! reduce/reduce conflict for } resolved using rule 2 (expr -> expr PUNCT .)
-    PUNCT           reduce using rule 2 (expr -> expr PUNCT .)
-    NUM             reduce using rule 2 (expr -> expr PUNCT .)
-    LVALUE          reduce using rule 2 (expr -> expr PUNCT .)
-    ID              reduce using rule 2 (expr -> expr PUNCT .)
-    {               reduce using rule 2 (expr -> expr PUNCT .)
-    $end            reduce using rule 2 (expr -> expr PUNCT .)
-    }               reduce using rule 2 (expr -> expr PUNCT .)
-
-
-state 9
-
-    (7) expr -> { expr . }
-    (2) expr -> expr . PUNCT
-    (3) expr -> expr . expr
-    (1) expr -> . PUNCT
-    (2) expr -> . expr PUNCT
-    (3) expr -> . expr expr
-    (4) expr -> . NUM
-    (5) expr -> . LVALUE
-    (6) expr -> . ID
-    (7) expr -> . { expr }
-    }               shift and go to state 10
-    PUNCT           shift and go to state 8
-    NUM             shift and go to state 3
-    LVALUE          shift and go to state 4
-    ID              shift and go to state 5
-    {               shift and go to state 6
-
-    expr                           shift and go to state 7
-
-state 10
-
-    (7) expr -> { expr } .
-    PUNCT           reduce using rule 7 (expr -> { expr } .)
-    NUM             reduce using rule 7 (expr -> { expr } .)
-    LVALUE          reduce using rule 7 (expr -> { expr } .)
-    ID              reduce using rule 7 (expr -> { expr } .)
-    {               reduce using rule 7 (expr -> { expr } .)
-    $end            reduce using rule 7 (expr -> { expr } .)
-    }               reduce using rule 7 (expr -> { expr } .)
-
+    text                           shift and go to state 4
 
 Conflicts:
 
-shift/reduce conflict for PUNCT in state 7 resolved as shift
-shift/reduce conflict for NUM in state 7 resolved as shift
-shift/reduce conflict for LVALUE in state 7 resolved as shift
-shift/reduce conflict for ID in state 7 resolved as shift
-shift/reduce conflict for { in state 7 resolved as shift
-reduce/reduce conflict in state 8 resolved using rule expr -> expr PUNCT
-rejected rule (expr -> PUNCT) in state 8
+shift/reduce conflict for VALUE in state 4 resolved as shift
+shift/reduce conflict for TEXT in state 4 resolved as shift
